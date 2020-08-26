@@ -20,7 +20,7 @@ const arturgoms = {
         devOps: ["AWS", "Nginx", "Jenkins", "Docker"],
         misc: ["Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+    architecture: ["Modular Architecture", "microservices", "event-driven", "Single page applications"],
 }
 ```
 
