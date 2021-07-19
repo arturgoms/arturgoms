@@ -9,5 +9,5 @@ Also experience at embedded systems like ARM programming, ESP32/8266, i2C, seria
 [![](https://img.shields.io/badge/Email-contato@arturgomes.com.br-red)](mailto:contato@arturgomes.com.br)
 
 
-Personal website: [arturgomes.com.br](arturgomes.com.br)
+Personal website: [arturgomes.com.br](https://arturgomes.com.br)
 
