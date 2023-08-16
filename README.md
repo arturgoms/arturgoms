@@ -10,11 +10,4 @@ Also experience at embedded systems like ARM programming, ESP32/8266, i2C, seria
 [![](https://img.shields.io/badge/Linkedin-arturgoms-blue)](https://dk.linkedin.com/in/artur-gomes-a3aa059b)
 [![](https://img.shields.io/badge/Email-contato@arturgomes.com.br-red)](mailto:contato@arturgomes.com.br)
 
-
-
-<p align='center'><a href="https://github.com/arturgoms">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arturgoms&theme=dark&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=arturgoms&theme=black-ice" />
-</a></p>
-
 [![](https://komarev.com/ghpvc/?username=arturgoms&color=blueviolet&label=Visits)](https://github.com/arturgoms)
