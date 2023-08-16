@@ -1,7 +1,7 @@
 ## Hello
 
 I'm a Back-end developer at [Counterpart](https://yourcounterpart.com).
-I have high qualifications on Python with 6+ years of experience. Currently working full time with lambda functions and api gateways.
+I have high qualifications on Python with 8+ years of experience. Currently working full time with lambda functions and api gateways.
 Expirience with Git and Gerrit integration, Yocto /Bitbake and Jira issue tracker, Django and django-rest framework.
 Also experience at embedded systems like ARM programming, ESP32/8266, i2C, serial, SPI protocols and linux environment.
 
