@@ -1,8 +1,8 @@
 ## Hello
 
 I'm a Back-end developer at [Counterpart](https://yourcounterpart.com).
-I have high qualifications on Python with 8+ years of experience. Currently working full time with lambda functions and api gateways.
-Expirience with Git and Gerrit integration, Yocto /Bitbake and Jira issue tracker, Django and django-rest framework.
+I have high qualifications on Python with 10+ years of experience. Currently working full time with Django/Rest Framework but i also have expirience with, lambda functions and api gateways, Git and Gerrit integration, Yocto /Bitbake and Jira issue tracker, Flask and FastAPI.
+
 Also experience at embedded systems like ARM programming, ESP32/8266, i2C, serial, SPI protocols and linux environment.
 
 [arturgomes.com](https://arturgomes.com)
